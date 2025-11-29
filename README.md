@@ -1,1 +1,1 @@
-# CodeAlpha_Hangman_Game_
+Python Hangman Game built as part of CodeAlpha Internship.
